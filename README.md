@@ -2,10 +2,9 @@
 - 🔭 Atualmente busco oportunidade de trabalho na area de tecnologia
 - 🌱 Estudando Java e teste de software
 
-<div align="center">
+<div>
   <a href="https://github.com/Brayancrc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Brayancrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayancrc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Brayancrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayancrc&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
    ##
@@ -23,7 +22,7 @@
   
    ##
 
-  <div>
+  <div align="center">
       <a href = "mailto:brayancrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brayan-robson-09329b111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/brayancrc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
