@@ -1,13 +1,11 @@
 ### Olá! Eu sou o Brayan Robson 👋
 - 🔭 Atualmente busco oportunidade de trabalho na area de tecnologia
 - 🌱 Estudando Java e teste de software
-- 📫 Contate-me no email: brayancrc@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Brayancrc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayancrc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayancrc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayancrc&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
    ##
