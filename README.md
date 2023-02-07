@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Brayan Robson 👋
-- 🔭 Atualmente busco oportunidade de trabalho na area de tecnologia
-- 🌱 Estudando Java e teste de software
+- 🔭 Atualmente busco me desenvolver na área de QA Automation Engineer
+- 🌱 Estudando também inglês e Outsystems 
 
 <div align="center">
   <a href="https://github.com/Brayancrc">
