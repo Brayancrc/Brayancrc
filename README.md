@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Cypress" height="30" width="40" src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://static-00.iconduck.com/assets.00/brand-cypress-icon-256x256-o6t5rb88.png">
   <img align="center" alt="Outsystems" height="30" width="40" src="https://avatars.githubusercontent.com/u/2916417?s=200&v=4">
   <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
