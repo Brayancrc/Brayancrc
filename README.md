@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Outsystems" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FOutSystems&psig=AOvVaw1xb3zvn7_LWTKM_sYT78rI&ust=1676053174664000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOie0uKGif0CFQAAAAAdAAAAABAE">
+  <img align="center" alt="Outsystems" height="30" width="40" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720">
   <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
   
