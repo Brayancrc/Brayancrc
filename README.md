@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Brayan Robson 👋
-- 🔭 Atualmente busco me desenvolver na área de QA Automation Engineer
-- 🌱 Estudando também inglês e Outsystems 
+- 🔭 Atualmente busco me desenvolver na área de MuleSoft & .Net Developer
+- 🌱 Estudando também inglês e espanhol 
 
 <div align="center">
   <a href="https://github.com/Brayancrc">
