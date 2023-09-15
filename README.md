@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Brayan Robson 👋
-- 🔭 Atualmente busco me desenvolver na área de MuleSoft & .Net Developer
+- 🔭 Um desenvolvedor .Net & MuleSoft apaixonado por integração de sistemas e resolução de problemas complexos. Minha abordagem orientada a soluções me permite analisar requisitos complexos, identificar oportunidades de otimização e propor soluções inovadoras. Tenho facilidade em aprender novas tecnologias e estou sempre em busca de atualizações para aprimorar minhas habilidades técnicas.
+
 - 🌱 Estudando também inglês e espanhol 
 
 <div align="center">
