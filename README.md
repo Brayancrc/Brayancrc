@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brayan Robson 👋
-- 🔭 Um desenvolvedor .Net & MuleSoft apaixonado por integração de sistemas e resolução de problemas complexos. Minha abordagem orientada a soluções me permite analisar requisitos complexos, identificar oportunidades de otimização e propor soluções inovadoras. Tenho facilidade em aprender novas tecnologias e estou sempre em busca de atualizações para aprimorar minhas habilidades técnicas.
+- 🔭 Olá, Sou Brayan Robson, um desenvolvedor apaixonado por integração de sistemas, resolução de problemas complexos e inteligência artificial. Com conhecimentos sólidos em MuleSoft Anypoint Platform/Studio e Machine Learning/AI, estou em busca de oportunidades para expandir minha experiência e contribuir para projetos de integração eficientes. 
 
-- 🌱 Estudando também inglês e espanhol 
+- 🌱 Minha formação se desenvolveu em Java, QA, Salesforce, MuleSoft, Microsoft Azure, AI, Machine Learning, Vector Machine (SVM), Python, Redes Neurais, Deep Learning, TensorFlow/Keras, o que me proporcionou uma base sólida em conceitos de desenvolvimento de software e programação. Durante meus estudos, me dediquei a Inteligência Artificial (AI), com um forte fundamento acadêmico, desenvolvi expertise em uma ampla gama de tecnologias essenciais para o desenvolvimento e engenharia de IA, tais como processamento de linguagem natural (NLP), visão computacional, otimização de algoritmos e técnicas de pré-processamento de dados. 
 
 <div align="center">
   <a href="https://github.com/Brayancrc">
